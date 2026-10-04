@@ -1,41 +1,63 @@
-REVANT RAJ JAISWAL
+# REVANT RAJ JAISWAL
 
-Electronics × Intelligence × Motion
-EEE Student | EV Technology | Embedded Systems | IoT | Robotics & Automation
-I am interested in what happens when electronics move beyond individual circuits and become complete, working systems.
-My focus is on connecting sensors, microcontrollers, software, and control systems to build technology that can sense, respond, and interact with the physical world.
-My approach: Understand the system. Build the prototype. Test it in the real world. Improve what doesn't work.
+### Electronics × Intelligence × Motion
+**EEE Student · EV Technology · Embedded Systems · IoT · Robotics & Automation**
 
-01 — ENGINEERING INTERESTS
-01 / Electric Mobility
-Exploring EV architecture, motor control, battery technologies, and power electronics.
-02 / Embedded Intelligence
-Working toward stronger foundations in microcontrollers, firmware, sensor interfacing, and hardware–software integration.
-03 / Connected Systems
-Exploring IoT devices, monitoring systems, and real-time data from the physical world.
-04 / Robotics & Automation
-Interested in sensing, actuation, control logic, and systems that perform tasks with minimal manual intervention.
+I’m interested in engineering systems that connect the digital world with the physical one: electronics that sense, firmware that processes, and control systems that respond.
 
-02 — BUILT & BUILDING
-/ 01 — IoT Radar System
-A sensor-based radar prototype that uses ultrasonic distance measurement and servo scanning to detect nearby objects and visualize their positions.
-Engineering focus: Distance sensing · Servo control · Embedded programming · Real-time visualization
-Explore the project
-/ 02 — Smart Parking Slot Detector
-A parking prototype designed to detect slot occupancy and distinguish available spaces from occupied ones.
-Engineering focus: Sensor interfacing · Embedded control · Occupancy detection · Smart infrastructure
-Explore the project
+My current direction is to build practical projects, understand their limitations, and improve them through testing—not just collect technologies on a profile.
 
-03 — MY ENGINEERING TOOLKIT
-Programming: C and embedded programming fundamentals
-Hardware: Arduino, sensors, actuators, and circuit interfacing
-Systems: IoT, embedded electronics, automation, and control systems
-Exploring: EV technology, robotics, and hardware–software integration
-I prioritize understanding how systems work over collecting technologies on a list.
+> **Engineering loop:** Understand → Design → Build → Test → Improve
 
-04 — THE DIRECTION
-I want to develop the ability to design and integrate complete engineering systems—not just write code or assemble components independently.
-The long-term direction is to explore how embedded intelligence, connected hardware, electric mobility, and automation can work together to solve practical problems.
+---
 
-BUILD. INTEGRATE. TEST. IMPROVE.
-Every prototype is an opportunity to understand the system better.
+## 01 / Engineering domains
+
+| Domain | What I’m exploring |
+|---|---|
+| **Electric mobility** | EV architecture, battery systems, motor control, power electronics |
+| **Embedded systems** | Microcontrollers, firmware, sensor interfacing, hardware–software integration |
+| **IoT** | Connected devices, monitoring, telemetry, smart systems |
+| **Robotics** | Sensors, actuators, motion, control systems |
+| **Automation** | Control logic, intelligent monitoring, industrial automation |
+
+## 02 / Projects
+
+### [IoT Radar System](https://github.com/rrjgibbs/iot-radar-system)
+An Arduino-based prototype that uses ultrasonic distance measurement and servo scanning to detect nearby objects and visualize their positions.
+
+**Focus:** Sensor integration · Servo control · Embedded programming · Radar-style visualization
+
+### Smart Parking Slot Detector
+A sensor-based project intended to detect parking occupancy and distinguish occupied spaces from available ones.
+
+**Status:** Project documentation and repository link will be added when the repository is published.
+
+**Focus:** Sensor interfacing · Occupancy detection · Embedded control · Smart infrastructure
+
+## 03 / My toolkit
+
+- **Programming:** C and embedded programming fundamentals
+- **Hardware:** Arduino, sensors, actuators, circuit interfacing
+- **Systems:** IoT, embedded electronics, automation, control systems
+- **Exploring:** EV technology, robotics, hardware–software integration
+
+I’ll list tools and skills here as I use them in real projects.
+
+## 04 / How I work
+
+**Observe → Understand → Prototype → Measure → Iterate**
+
+I want to learn how complete systems work—from physical inputs and electronic interfaces to firmware, outputs, and user-facing feedback.
+
+## 05 / Current direction
+
+Build stronger foundations in embedded programming, explore EV and power-electronics systems, and develop projects that combine sensing, control, and automation.
+
+---
+
+**BUILDING SYSTEMS THAT INTERACT WITH THE REAL WORLD.**
+
+*Learn deeply. Build honestly. Document clearly.*
+
+[GitHub profile](https://github.com/rrjgibbs)
