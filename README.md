@@ -5,7 +5,7 @@
 
 I’m interested in engineering systems that connect the digital world with the physical one: electronics that sense, firmware that processes, and control systems that respond.
 
-My current direction is to build practical projects, understand their limitations, and improve them through testing—not just collect technologies on a profile.
+My focus is on building practical projects, understanding their limitations, and improving them through testing—not just collecting technologies on a profile.
 
 > **Engineering loop:** Understand → Design → Build → Test → Improve
 
@@ -24,14 +24,12 @@ My current direction is to build practical projects, understand their limitation
 ## 02 / Projects
 
 ### [IoT Radar System](https://github.com/rrjgibbs/iot-radar-system)
-An Arduino-based prototype that uses ultrasonic distance measurement and servo scanning to detect nearby objects and visualize their positions.
+An Arduino-based prototype using ultrasonic distance measurement and servo scanning to detect nearby objects and visualize their positions.
 
 **Focus:** Sensor integration · Servo control · Embedded programming · Radar-style visualization
 
-### Smart Parking Slot Detector
-A sensor-based project intended to detect parking occupancy and distinguish occupied spaces from available ones.
-
-**Status:** Project documentation and repository link will be added when the repository is published.
+### [Smart Parking Slot Detector](https://github.com/rrjgibbs/smart-parking-slot-detector)
+A sensor-based project exploring parking-slot occupancy detection and identification of available spaces.
 
 **Focus:** Sensor interfacing · Occupancy detection · Embedded control · Smart infrastructure
 
