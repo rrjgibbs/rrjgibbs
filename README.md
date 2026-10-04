@@ -10,7 +10,7 @@ My goal is to turn what I learn into practical projects, share what works and wh
 
 ## What I'm learning
 
-- **Programming:** C and other languages as I progress
+- **Programming:** C, Python, JAVA and other languages as I progress
 - **AI & Machine Learning:** Learning the core concepts and exploring practical applications
 - **Computer Vision:** Exploring how computers can interpret images and visual information
 - **Embedded Systems:** Arduino, microcontrollers, sensors, actuators, and hardware interfacing
