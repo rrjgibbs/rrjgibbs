@@ -1,61 +1,51 @@
-# REVANT RAJ JAISWAL
+# Hi, I'm Revant Raj Jaiswal 👋
 
-### Electronics × Intelligence × Motion
-**EEE Student · EV Technology · Embedded Systems · IoT · Robotics & Automation**
+**EEE student | Learning by building | Interested in embedded systems, IoT, EVs, and robotics**
 
-I’m interested in engineering systems that connect the digital world with the physical one: electronics that sense, firmware that processes, and control systems that respond.
+I'm still at the beginning of my engineering journey, learning the basics, making mistakes, fixing them, and figuring out how things work in the real world.
 
-My focus is on building practical projects, understanding their limitations, and improving them through testing—not just collecting technologies on a profile.
+I don't know everything yet—and that's exactly why I'm here. I want to turn what I learn into small, practical projects, document my progress, and keep improving with every build.
 
-> **Engineering loop:** Understand → Design → Build → Test → Improve
+## What I'm learning
 
----
+- **Embedded systems:** Arduino, sensors, actuators, and microcontroller basics
+- **Programming:** C and writing code for hardware projects
+- **IoT:** Connecting sensors and building simple smart systems
+- **Robotics & automation:** Understanding how hardware and code work together
+- **Electric vehicles:** Exploring EV technology and power electronics
 
-## 01 / Engineering domains
+These are areas I'm exploring, not a claim that I've mastered them. I'll update this list as I gain experience.
 
-| Domain | What I’m exploring |
-|---|---|
-| **Electric mobility** | EV architecture, battery systems, motor control, power electronics |
-| **Embedded systems** | Microcontrollers, firmware, sensor interfacing, hardware–software integration |
-| **IoT** | Connected devices, monitoring, telemetry, smart systems |
-| **Robotics** | Sensors, actuators, motion, control systems |
-| **Automation** | Control logic, intelligent monitoring, industrial automation |
-
-## 02 / Projects
+## Projects I've worked on
 
 ### [IoT Radar System](https://github.com/rrjgibbs/iot-radar-system)
-An Arduino-based prototype using ultrasonic distance measurement and servo scanning to detect nearby objects and visualize their positions.
+An Arduino-based project using an ultrasonic sensor and servo motor to scan for nearby objects and display the readings.
 
-**Focus:** Sensor integration · Servo control · Embedded programming · Radar-style visualization
+**What I'm learning:** Sensor interfacing, servo control, embedded code, and visualising sensor data.
 
 ### [Smart Parking Slot Detector](https://github.com/rrjgibbs/smart-parking-slot-detector)
-A sensor-based project exploring parking-slot occupancy detection and identification of available spaces.
+A small parking-system prototype exploring how sensors can detect vehicle movement and help track parking availability.
 
-**Focus:** Sensor interfacing · Occupancy detection · Embedded control · Smart infrastructure
+**What I'm learning:** IR sensors, servo-based gate control, LCD output, and combining multiple components into one system.
 
-## 03 / My toolkit
+## My learning approach
 
-- **Programming:** C and embedded programming fundamentals
-- **Hardware:** Arduino, sensors, actuators, circuit interfacing
-- **Systems:** IoT, embedded electronics, automation, control systems
-- **Exploring:** EV technology, robotics, hardware–software integration
+1. Learn the fundamentals.
+2. Build a small version of an idea.
+3. Test it, find what doesn't work, and debug it.
+4. Document what I learned.
+5. Improve it—or use that experience in the next project.
 
-I’ll list tools and skills here as I use them in real projects.
+Not every project will be perfect on the first try. I plan to share the process, not just the finished result.
 
-## 04 / How I work
+## What's next?
 
-**Observe → Understand → Prototype → Measure → Iterate**
+I'll keep learning, experimenting, and uploading projects here as I build them. Some will be simple beginner projects; others will become more ambitious as my skills improve. When possible, I'll include the code, circuit diagrams, simulation files, setup instructions, and notes about what I learned.
 
-I want to learn how complete systems work—from physical inputs and electronic interfaces to firmware, outputs, and user-facing feedback.
-
-## 05 / Current direction
-
-Build stronger foundations in embedded programming, explore EV and power-electronics systems, and develop projects that combine sensing, control, and automation.
+If you're learning too, feel free to explore the repositories. Suggestions and constructive feedback are welcome.
 
 ---
 
-**BUILDING SYSTEMS THAT INTERACT WITH THE REAL WORLD.**
+**Learning in public, one project at a time.**
 
-*Learn deeply. Build honestly. Document clearly.*
-
-[GitHub profile](https://github.com/rrjgibbs)
+[Explore my repositories](https://github.com/rrjgibbs?tab=repositories)
