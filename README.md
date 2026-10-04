@@ -14,7 +14,7 @@ My goal is to turn what I learn into practical projects, share what works and wh
 - **AI & Machine Learning:** Learning the core concepts and exploring practical applications
 - **Computer Vision:** Exploring how computers can interpret images and visual information
 - **Embedded Systems:** Arduino, microcontrollers, sensors, actuators, and hardware interfacing
-- **IoT:** Building simple connected and sensor-based systems
+- **IoT:** Building simple connected and smart systems
 - **Robotics & Automation:** Understanding how code, electronics, and control systems work together
 - **Electric Vehicles:** Exploring EV technology and power electronics
 
