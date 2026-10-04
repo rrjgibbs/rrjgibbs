@@ -1,48 +1,52 @@
 # Hi, I'm Revant Raj Jaiswal 👋
 
-**EEE student | Learning by building | Interested in embedded systems, IoT, EVs, and robotics**
+**EEE student | Learning by building | Exploring programming, AI/ML, computer vision, embedded systems, and IoT**
 
-I'm still at the beginning of my engineering journey, learning the basics, making mistakes, fixing them, and figuring out how things work in the real world.
+I'm at the beginning of my engineering journey, learning the fundamentals, experimenting with ideas, making mistakes, and figuring out how things work in practice.
 
-I don't know everything yet—and that's exactly why I'm here. I want to turn what I learn into small, practical projects, document my progress, and keep improving with every build.
+I'm currently learning programming languages and exploring areas such as **AI/ML, computer vision, embedded systems, IoT, robotics, automation, and electric vehicle technology**. I'm still learning and building my foundations, so this profile is a record of my progress—not a claim that I've mastered these fields.
+
+My goal is to turn what I learn into practical projects, share what works and what doesn't, and improve with every build.
 
 ## What I'm learning
 
-- **Embedded systems:** Arduino, sensors, actuators, and microcontroller basics
-- **Programming:** C and writing code for hardware projects
-- **IoT:** Connecting sensors and building simple smart systems
-- **Robotics & automation:** Understanding how hardware and code work together
-- **Electric vehicles:** Exploring EV technology and power electronics
+- **Programming:** C and other languages as I progress
+- **AI & Machine Learning:** Learning the core concepts and exploring practical applications
+- **Computer Vision:** Exploring how computers can interpret images and visual information
+- **Embedded Systems:** Arduino, microcontrollers, sensors, actuators, and hardware interfacing
+- **IoT:** Building simple connected and sensor-based systems
+- **Robotics & Automation:** Understanding how code, electronics, and control systems work together
+- **Electric Vehicles:** Exploring EV technology and power electronics
 
-These are areas I'm exploring, not a claim that I've mastered them. I'll update this list as I gain experience.
+I'm a learner in these areas, and I'll update this section as I gain hands-on experience.
 
 ## Projects I've worked on
 
 ### [IoT Radar System](https://github.com/rrjgibbs/iot-radar-system)
-An Arduino-based project using an ultrasonic sensor and servo motor to scan for nearby objects and display the readings.
+An Arduino-based project using an ultrasonic sensor and servo motor to scan for nearby objects and display readings.
 
 **What I'm learning:** Sensor interfacing, servo control, embedded code, and visualising sensor data.
 
 ### [Smart Parking Slot Detector](https://github.com/rrjgibbs/smart-parking-slot-detector)
 A small parking-system prototype exploring how sensors can detect vehicle movement and help track parking availability.
 
-**What I'm learning:** IR sensors, servo-based gate control, LCD output, and combining multiple components into one system.
+**What I'm learning:** IR sensors, servo-based gate control, LCD output, and combining components into one system.
 
-## My learning approach
+## How I learn
 
-1. Learn the fundamentals.
+1. Understand the fundamentals.
 2. Build a small version of an idea.
-3. Test it, find what doesn't work, and debug it.
+3. Test it, debug it, and learn from what goes wrong.
 4. Document what I learned.
-5. Improve it—or use that experience in the next project.
+5. Improve the project or apply the lesson to the next one.
 
-Not every project will be perfect on the first try. I plan to share the process, not just the finished result.
+Not every project will be perfect on the first try. I want to share the learning process, not just the finished result.
 
 ## What's next?
 
-I'll keep learning, experimenting, and uploading projects here as I build them. Some will be simple beginner projects; others will become more ambitious as my skills improve. When possible, I'll include the code, circuit diagrams, simulation files, setup instructions, and notes about what I learned.
+I'll keep learning, experimenting, and uploading projects here as I build them. Some will be simple beginner projects; others will become more ambitious as my skills grow. When possible, I'll include code, circuit diagrams, simulation files, setup instructions, and notes about what I learned.
 
-If you're learning too, feel free to explore the repositories. Suggestions and constructive feedback are welcome.
+If you're learning too, feel free to explore my repositories. Suggestions and constructive feedback are welcome.
 
 ---
 
